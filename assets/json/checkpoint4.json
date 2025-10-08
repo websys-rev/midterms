@@ -1,10 +1,53 @@
 [
     {
-      "question": "A Controller is a class file that can be associated with a URI.",
+      "question": "Which method is used to delete a record from the database using a Model?",
       "choices": [
-        "True",
-        "False"
+        "delete()",
+        "remove()",
+        "destroy()",
+        "erase()"
       ],
-      "answer": "True"
-    }
+      "answer": "delete()"
+    },
+    {
+      "question": "How can you specify a table in a Model to interact with?",
+      "choices": [
+        "protected $table property",
+        "setTable()",
+        "uesTable()",
+        "table()"
+      ],
+      "answer": "protected $table property"
+    },
+    {
+      "question": "What is the default return type of data when using Models in CodeIgniter?",
+      "choices": [
+        "Array",
+        "JSON",
+        "Object",
+        "XML"
+      ],
+      "answer": "Array"
+    },
+    {
+      "question": "What is the primary purpose of a Model in CodeIgniter?",
+      "choices": [
+        "Interact with the database",
+        "Configure routing",
+        "Handle user input",
+        "Manage views"
+      ],
+      "answer": "Interact with the database"
+    },
+    {
+      "question": "Which method in a Model is used to update an existing record in the database?",
+      "choices": [
+        "update()",
+        "set()",
+        "modify()",
+        "change()"
+      ],
+      "answer": "update()"
+    },
+    
 ]
