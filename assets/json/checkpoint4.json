@@ -167,7 +167,7 @@
       "load->model()",
       "use_model()"
     ],
-    "answer": "load->model()"
+    "answer": "model()"
   },
   {
     "question": "What is the purpose of using layouts in CodeIgniter views?",
