@@ -1,13 +1,186 @@
 [
   {
-    "question": "1. The IT department is reporting that a company web server is receiving an abnormally high number of web page requests from different locations simultaneously. Which type of security attack is occurring?",
+    "question": "CodeIgniter strives for simplicity, flexibility, and high performance in a small footprint package.",
     "choices": [
-      "adware",
-      "DDoS",
-      "phishing",
-      "social engineering",
-      "spyware"
+      "True",
+      "False"
     ],
-    "answer": "DDoS"
+    "answer": "True"
+  },
+  {
+    "question": "The second step for CodeIgniter installation is to unzip the package to your web page root directory",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "One of the features of CodeIgniter is applicable profiling",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "In the URL segment, the second segment represents the class function or method that should be called.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "By default, the index.php file will be included in your URLs: example.com/index.php/news/article/my_article",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "'/' is the segment delimiter.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "XTML-RPC Library is one of the features of CodeIgniter",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "One of the software requirements for CodeIgniter installation is web server",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "This represents the data structures in which model classes contains functions such as retrieve, insert, and update information in database.",
+    "choices": [
+      "Model",
+      "View",
+      "Controller",
+      "None of the above"
+    ],
+    "answer": "Model"
+  },
+  {
+    "question": "In URI segment, the first segment represents the ________ that should be invoked.",
+    "choices": [
+      "Controller Class"
+    ],
+    "answer": "Controller Class"
+  },
+  {
+    "question": "In a route, the array key contains the URI to be matched, while the array value contains the destination it should be re-routed to.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "Routing rules are defined in your application/config/routes.php file.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "The model represents the data structures in which model classes contains functions such as retrieve, insert, and update information in database.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "CodeIgniter also enables you to incorporate your own scripts, or even develop core libraries for the system, enabling you to work in a way that makes the most sense to you.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "CodeIgniter supports Query Builder Database",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "The third, and any additional segments in URI segments, represent the ___________ that will be passed to the controller.",
+    "choices": [
+      "Id and any variables"
+    ],
+    "answer": "Id and any variables"
+  },
+  {
+    "question": "URLs can be remapped using the URI Routing feature for more flexibility.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "The first step for CodeIgniter installation is to unzip the package to your web page root directory",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "CodeIgniter has full featured database classes with support for several platforms.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "Apache is an example of web browser",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "question": "One of the software requirements for CodeIgniter installation is operating system",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "In URI segment, the first segment represents the controller class that should be invoked.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "URLs in CodeIgniter are search-engine and human friendly. CodeIgniter uses a segment-based approach.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
   }
 ]
